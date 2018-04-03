@@ -1,0 +1,22 @@
+{
+  "name": "immutablechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liplylie/immutableChallenge.git"
+  },
+  "author": "Jordan Daniels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liplylie/immutableChallenge/issues"
+  },
+  "homepage": "https://github.com/liplylie/immutableChallenge#readme",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  }
+}
